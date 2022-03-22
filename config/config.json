@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x5e4ac8fd7c4e61df6ec4baa14fb88b03767be440",
+  "SCAN_LINK": "https://polygonscan.com/address/0x5e4ac8fd7c4e61df6ec4baa14fb88b03767be440",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Malfoys Owl",
+  "SYMBOL": "Malfoys Owl",
+  "MAX_SUPPLY": 5555,
+  "WEI_COST": 2000000000000000000,
+  "DISPLAY_COST": 2,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/malfoys-owl",
+  "SHOW_BACKGROUND": true 
+}
